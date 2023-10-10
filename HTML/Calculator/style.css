@@ -1,0 +1,39 @@
+body{
+margin-top: 100px;
+margin-left: 35%;
+}
+.main{
+
+  border-radius: 10px;
+  display: inline-block;
+  padding: 20px;
+  align-items: center;
+  background-color: rgb(247, 247, 255);
+  background-color: black;
+
+}
+
+input[type="text"]{
+  width: 270px;
+  padding: 30px;
+  margin-bottom: 10px;
+
+}
+
+input[type="button"]{
+  padding: 10px;
+  width: 76px;
+  margin: 2px;
+  font-size: 25px;
+  font-weight: bolder;
+  border-radius: 8px;
+  border: 1px solid rgb(92, 92, 234);
+  cursor: pointer;
+  background-color: #f1f3f4
+}
+
+#display{
+  font-size: 50px;
+  text-align: end;
+  font-weight: bolder;
+}
